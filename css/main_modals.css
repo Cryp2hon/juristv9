@@ -221,7 +221,7 @@
     display: none;
   }
   .theme-form_wrap {
-    width: 311px;
+    width: 300px;
   }
   .theme-form_wrap .checkboxes {
     width: 270px;
@@ -250,9 +250,10 @@
     display: none;
   }
   .theme-form_wrap form input {
-    width: 311px;
+    width: 300px;
     height: 60px;
     border: none;
+    padding: 0px;
     background: rgb(237, 237, 237);
     font-size: 16px;
     text-align: center;
@@ -262,7 +263,7 @@
   }
   .theme-form_wrap form button {
     margin-bottom: 10px;
-    width: 311px;
+    width: 300px;
     height: 70px;
     border-radius: 10px;
     background: linear-gradient(180deg, #F69D4B 0%, #EE8524 100%);
